@@ -15,5 +15,9 @@ This woas project is using BLOBs (Binary Large Objects) for saving the wiki from
 * Firefox
 * MS Edge
 * Vivaldi
+
+If you change a wiki page in Woas, the `Download`-Link gets from blue to red, so you may download the wiki.  
+
+![](./test-blob.png)
     
 Many Thanks to [PVHL](https://sourceforge.net/u/pvhl/) and [tomasss1024](https://github.com/tomasss1024)
