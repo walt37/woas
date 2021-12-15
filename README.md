@@ -16,7 +16,7 @@ This woas project is using BLOBs (Binary Large Objects) for saving the wiki from
 * MS Edge
 * Vivaldi
 
-If you change a wiki page in Woas, the `Download`-Link gets from blue to red, so you may download the wiki.  
+If you change a wiki page in Woas, the `Download`-Link changes from blue to red, so you may download the wiki.  
 
 ![](./test-blob.png)
     
